@@ -1,4 +1,4 @@
-# Unity-Block-Game
+# Unity Block Game
 Basic game created in Unity and C#.
 
 # Downloading the Project
