@@ -5,10 +5,10 @@ Basic game created in Unity and C#.
 Press 'Clone or download' in the upper right
 
 # Instructions
-The aim of the game is to reach the end of the map without falling off the edge. 
-A maximum score of 150 can be achieved. 
-"A" or Left arrow buttons can be used to move the player left. 
-"D" or Right arrow buttons can be used to move the player right. 
-If you complete the level or fall off the map the game will reset automatically.
+- The aim of the game is to reach the end of the map without falling off the edge. 
+- A maximum score of 150 can be achieved. 
+- "A" or Left arrow buttons can be used to move the player left. 
+- "D" or Right arrow buttons can be used to move the player right. 
+- If you complete the level or fall off the map the game will reset automatically.
 
-You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
+- You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
