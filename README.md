@@ -11,7 +11,4 @@ A maximum score of 150 can be achieved.
 "D" or Right arrow buttons can be used to move the player right. 
 If you complete the level or fall off the map the game will reset automatically.
 
-To Play the game in browser please follow the link:
-https://wonderful-torvalds-9e7935.netlify.com/
-
-
+You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
