@@ -11,4 +11,4 @@ Press 'Clone or download' in the upper right
 - "D" or Right arrow buttons can be used to move the player right. 
 - If you complete the level or fall off the map the game will reset automatically.
 
-- You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
+You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
