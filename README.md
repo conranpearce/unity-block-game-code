@@ -1,6 +1,8 @@
 # Unity Block Game
 Basic game created in Unity and C#.
 
+You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
+
 # Downloading the Project
 Press 'Clone or download' in the upper right
 
@@ -11,4 +13,5 @@ Press 'Clone or download' in the upper right
 - "D" or Right arrow buttons can be used to move the player right. 
 - If you complete the level or fall off the map the game will reset automatically.
 
-You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
+# Screenshot of the Game
+![unity-game](https://user-images.githubusercontent.com/54678624/75148603-efe69b80-56f7-11ea-9def-c8580a767728.png)
