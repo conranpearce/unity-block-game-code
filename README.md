@@ -1,7 +1,7 @@
 # Unity Block Game
 Basic game created in Unity and C#.
 
-You can play the game in browser [here](https://wonderful-torvalds-9e7935.netlify.com/)
+You can play the game in browser [here](https://conran-unity-game.netlify.com/)
 
 # Downloading the Project
 Press 'Clone or download' in the upper right
