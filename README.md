@@ -3,6 +3,8 @@ Basic game created in Unity and C#.
 
 You can play the game in browser [here](https://conran-unity-game.netlify.com/)
 
+There is a seperate GitHub respoitory [here](https://github.com/conranpearce/Unity-Block-Game-WebGL) to manage the webpage of the game.
+
 ## Prerequisites
 - Unity
 
