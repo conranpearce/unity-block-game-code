@@ -1,12 +1,12 @@
 # Block Game
-Basic game created in Unity and C#.
+Easy to play game created using Unity and C#.
 
 ## Deployment
 You can play the game in browser [here](https://block-game.netlify.app/)
 
 Development branch live [here](https://block-game-develop.netlify.app/)
 
-There is a seperate GitHub respoitory [here](https://github.com/conranpearce/Unity-Block-Game-WebGL) to manage the webpage of the game.
+There is a seperate GitHub respoitory [here](https://github.com/conranpearce/Unity-Block-Game-WebGL) to manage the website of the game.
 
 ## Prerequisites
 - Unity
