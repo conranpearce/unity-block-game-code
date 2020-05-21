@@ -6,7 +6,7 @@ You can play the game in browser [here](https://block-game.netlify.app/)
 
 Development branch live [here](https://block-game-develop.netlify.app/)
 
-There is a seperate GitHub respoitory [here](https://github.com/conranpearce/unity-block-game-website) to manage the website of the game.
+There is a seperate GitHub respoitory to manage the website of the game [here](https://github.com/conranpearce/unity-block-game-website).
 
 ## Prerequisites
 - Unity
