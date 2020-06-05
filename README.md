@@ -13,8 +13,8 @@ You can play the game in browser [here](https://block-game.netlify.app/)
 Game Instructions:
 - The aim of the game is to reach the end of the map without falling off the edge. 
 - A maximum score of 150 can be achieved. 
-- "A" or Left arrow buttons can be used to move the player left. 
-- "D" or Right arrow buttons can be used to move the player right. 
+- Press "A" or "←" to move the player left. 
+- Press "D" or "→" to move the player left. 
 - If you complete the level or fall off the map the game will reset automatically.
 
 
@@ -27,6 +27,7 @@ There is a seperate GitHub respoitory to manage the website of the game under [/
 
 ## Prerequisites
 - Unity
+- Text Editor for C#
 
 ## Downloading the Project
-Press 'Clone or download' in the upper right
+Press 'Clone or download' in the upper right.
