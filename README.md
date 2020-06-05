@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://block-game.netlify.app/">⌨️ Block Game</a></h1>
+<h1 align="center"><a href="https://block-game.netlify.app/">Block Game</a></h1>
 
 <p align="center">Easy to play game created using Unity and C#.
 </p>
@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/54678624/75148603-efe69b80-56f7-11ea-9def-c8580a767728.png" width="476" height="286"/>
 </p>
 
-## 🎮 How to play
+## :video_game: How to play
 You can play the game in browser [here](https://block-game.netlify.app/)
 
 Game Instructions:
