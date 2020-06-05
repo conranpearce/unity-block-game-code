@@ -10,7 +10,7 @@
 ## 🎮 How to play
 You can play the game in browser [here](https://block-game.netlify.app/)
 
- Game Instructions
+Game Instructions:
 - The aim of the game is to reach the end of the map without falling off the edge. 
 - A maximum score of 150 can be achieved. 
 - "A" or Left arrow buttons can be used to move the player left. 
